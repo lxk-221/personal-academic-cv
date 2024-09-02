@@ -14,5 +14,6 @@ test for videos
 
 ## Final Version of Our Robot
 This video shows the whole process of the competiiton, as we can see, robot use visual serving stratgy to adjust end effector and achieve precise placing.
-{{< video src="carry_ver2.mp4" controls="yes" >}}
+{{< youtube XEpZW4rSB-8 >}}
+
 <!--more-->
