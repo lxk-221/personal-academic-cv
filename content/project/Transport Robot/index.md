@@ -1,11 +1,12 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Transport Robot
+summary: A summry of Transport Robot Project
+date: 2021-10
+type: docs
+math: false
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Transport Robot
+  - Visual Serving
 ---
 
 ## Introduction
