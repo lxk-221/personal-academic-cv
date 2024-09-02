@@ -10,5 +10,5 @@ tags:
 
 test for videos
 
-
+{{< video src="carry_ver2.mp4" controls="yes" >}}
 <!--more-->
