@@ -57,8 +57,8 @@ interests:
 education:
   - area: MEng Electronic and Information Engineering
     institution: Xi’an Jiaotong University
-    date_start: 2018-09
-    date_end: Present
+    date_start: 2022-09-01
+    date_end: 2025-07-01
 #    summary: |
 #      GPA: 3.63/4.0
 
@@ -68,8 +68,8 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Automation
     institution: Xi’an Jiaotong University
-    date_start: 2018-09
-    date_end: 2022-6
+    date_start: 2018-09-01
+    date_end: 2022-07-01
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
