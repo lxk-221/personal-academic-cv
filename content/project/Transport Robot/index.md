@@ -1,7 +1,7 @@
 ---
 title: Transport Robot
 summary: A summry of Transport Robot Project
-date: 2021-10
+date: 2021-10-01
 type: docs
 math: false
 tags:
