@@ -55,7 +55,7 @@ interests:
   - Robot Learning
 
 education:
-  - area: MEng Electronic and Information Engineering
+  - area: MSc of Electronic and Information Engineering
     institution: Xi’an Jiaotong University
     date_start: 2022-09-01
     date_end: 2025-07-01
@@ -66,7 +66,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Automation
+  - area: BSc of Automation
     institution: Xi’an Jiaotong University
     date_start: 2018-09-01
     date_end: 2022-07-01
