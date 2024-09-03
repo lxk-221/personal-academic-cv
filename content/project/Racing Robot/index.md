@@ -1,7 +1,7 @@
 ---
-title: Transport Robot
-summary: A summry of Transport Robot Project
-date: 2022-10-01
+title: Racing Robot
+summary: uss a webcam to guide the robot in a specific field
+date: 2019-10-01
 type: docs
 math: false
 tags:
