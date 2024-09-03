@@ -71,5 +71,6 @@ $$
   \label{Nav2D}
 \end{figure}
 $$
-{{< math >}}
+{{< /math >}}
+
 <!--more-->
