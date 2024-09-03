@@ -1,6 +1,6 @@
 ---
 title: Racing Robot
-summary: uss a webcam to guide the robot in a specific field
+summary: This project aims to participate in a robot racing competition.
 date: 2019-10-01
 type: docs
 math: false
