@@ -1,5 +1,5 @@
 ---
-title: Transport Robot
+title: BIM-based Mobile Robot in Construction
 summary: Building Information Modeling‑based Simultaneous Localization and Mapping for mobile robot in construction scenes.
 date: 2022-06-01
 type: docs
