@@ -25,4 +25,8 @@ For the placement, we use a RANSAC-based method to detect the center of the targ
 This video shows the whole process of the competition, as we can see, the robot uses a visual serving strategy to adjust the end effector and achieve precise placement.
 {{< youtube XEpZW4rSB-8 >}}
 
+## Group and Team
+![screen reader text](figures/Team.jpg "Team")
+![screen reader text](figures/Large_Team.jpg "Group")
+
 <!--more-->
