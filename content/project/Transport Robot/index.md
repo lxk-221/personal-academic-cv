@@ -1,6 +1,6 @@
 ---
 title: Transport Robot
-summary: This project aims to make a lightweight transport robot for a material carrying competition.
+summary: This project aims to make a lightweight transport robot for a material-carrying competition.
 date: 2021-10-01
 type: docs
 math: false
