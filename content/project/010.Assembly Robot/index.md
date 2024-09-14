@@ -1,7 +1,7 @@
 ---
 title: Assembly Robot
 summary: Online Phase-Recognizing Movement Primitives for Robotic Assembly Tasks
-date: 2024-10-01
+date: 2024-09-01
 type: docs
 math: true
 tags:
