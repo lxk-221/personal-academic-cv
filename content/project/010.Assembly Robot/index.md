@@ -16,4 +16,6 @@ Therefore, we propose Phase-Recognizing Movement Primitive (PMP), which can make
 Specifically, given the robot state, we assume the phase is a random variable with a Gaussian distribution. Consequently, the phase velocity can be computed, enabling us to determine whether the task is hindered and to retry if the task is stuck.
 We test our method on a Peg-In-Hole assembly task in simulation and a Slide-In-The-Groove assembly task on real UR5. The experimental results show that PMP can make stable estimations of the phase and thus make adjustments to complete the hindered assembly tasks.
 
+## Experiment
+{{< youtube Hcrcy2lksx4 >}}
 <!--more-->
