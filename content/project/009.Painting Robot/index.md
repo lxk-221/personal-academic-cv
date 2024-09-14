@@ -28,7 +28,7 @@ However, we discovered that this method was inadequate for handling tasks involv
 This project is still in progress...
 
 ## Experiments
-![Single Spray](figures/1.gif)
-![Double Spray](figures/2.gif)
-![Wide Range](figures/3.gif)
+![Single Spray](figures/1.gif "Single Spray")
+![Double Spray](figures/2.gif "Double Spray")
+![Wide Range](figures/3.gif "Wide Range")
 <!--more-->
