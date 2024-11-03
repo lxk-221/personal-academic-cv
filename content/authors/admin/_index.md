@@ -51,8 +51,10 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
-  - Robotics
-  - Robot Learning
+  - Robotic Assembly
+  - Robot skill Learning
+  - Task and Motion Planning
+  - Mobile Manipulation
 
 education:
   - area: MSc of Electronic and Information Engineering
